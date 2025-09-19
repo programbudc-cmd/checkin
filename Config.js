@@ -6,5 +6,7 @@
     const LIFF_HISTORY = '2008088008-jWGqwvvn'; // LIFF ID history
     const LIFF_REGISTER = '2008088008-RGaXeww4'; // LIFF ID register
 
+//// test dropdown
+  const WEB_APP_DD = "https://script.google.com/macros/s/AKfycby6ch5pUa6UtNX4UJMUKrGC_WustS2aD1PrJyrQYzZYncCDzHC8pkU0RDVpB0SEcVq_VQ/exec";
 
 
